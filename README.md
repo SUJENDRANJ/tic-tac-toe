@@ -1,1 +1,1 @@
-# Frontend System Design questions - TIC TAC TOE
+# Frontend System Design question - TIC TAC TOE
